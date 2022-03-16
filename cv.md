@@ -24,3 +24,21 @@ function absentVowel(str) {
 }
 console.log(absentVowel("John Doe hs seven red pples under his bsket"));
 ```
+
+## Projects
+
+- [Quiz](http://react-quiz-82cdf.firebaseapp.com) :
+  SPA for quiz creation with Firebase-server(using React, Redux)
+- [GitHub Searcher](https://lukmanov87.github.io/React-Hooks/) :
+  SPA for searching GitHub-user(using React, Redux, React Hooks, Bootstrap)
+
+## Education & Courses
+
+- Bashkirian State University, Faculty of Economics, Ufa
+- “ReactJS. Practice 2020(incl. Hooks, Classes, Redux)”
+- "NodeJS.Practice 2020"
+
+## Languages
+
+- Russian - native
+- English - A2
